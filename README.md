@@ -1,7 +1,12 @@
 # Watson Developer Cloud Unity SDK
 [![Build Status](https://travis-ci.org/watson-developer-cloud/unity-sdk.svg?branch=develop)](https://travis-ci.org/watson-developer-cloud/unity-sdk)
 
-Use this SDK to build Watson-powered applications in Unity. It comes with a set of prefabs that you can use to develop a simple Watson application in just one minute.
+## NOTE: This fork is specific to the project vr-speech-sandbox-cardboard:
+https://github.com/IBM/vr-speech-sandbox-carboard
+It should only be used with the vr-speech-sandbox-cardboard project.
+If you are looking for the official Watson unity-sdk, you will find it here:
+https://github.com/watson-developer-cloud/unity-sdk
+
 
 ## Table of Contents
 * [Before you begin](#before-you-begin)
